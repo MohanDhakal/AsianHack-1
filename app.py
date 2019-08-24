@@ -90,7 +90,7 @@ def upload_file():
         if "file" not in request.files:
             print("File not uploaded.")
             return
-        preferred_currency = request.form["PreferredCurrency"]
+        preferred_currency = "USD"
         file = request.files['file']
         image = file.read()
         tensor = get_tensor(image_bytes=image)
