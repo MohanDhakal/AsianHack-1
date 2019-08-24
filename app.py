@@ -50,7 +50,7 @@ cash_values = [
         "NepaliValue": "100",
         "ConvertedValue": "",
         "what_can_i_buy": {
-            "1": "Visit Central Zoo, Patan.",
+            "1": "Visit Central Zoo of Patan.",
             "2": "MoMo at New Everest MoMo Center, Thamel.",
             "3": "Try Chatamari and other Nepwari Cuisine at Kirtipur."
         }
@@ -98,7 +98,7 @@ def upload_file():
         converted_value = converter.convert(int(cash), "NPR", preferred_currency)
         for the_cash_value in cash_values:
             if the_cash_value["NepaliValue"] == cash:
-                the_cash_value["ConvertedValue"] = converted_value
+                the_cash_value["ConvertedValue"] = round(converted_value,3)
                 results.append(the_cash_value)
                 
         return jsonify(results)
