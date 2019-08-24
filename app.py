@@ -109,14 +109,14 @@ cuisines = [
     {
         "cuisine_name": "Selroti",
         "description":"Sel roti (Nepali: सेल रोटी) is a traditional homemade, sweet, ring-shaped rice bread/doughnut originating from the Nepal. It is mostly prepared during Dashain and Tihar, widely celebrated Hindu festivals in Nepal and Sikkim and Darjeeling.",
-        "ingredients": "",
+        "ingredients": "It is made of rice flour with adding customized flavours. A semi-liquid rice flour dough is usually prepared by adding milk, water, cooking oil, sugar, ghee, butter, cardamom, cloves, bananas and other flavours of personal choice.The ingredients are mixed well by stirring. Once the semi liquid dough is ready, it is deep fried in boiling oil or ghee. ",
         "food_type": "Veg"
     },
     {
         "cuisine_name": "Yomari",
         "description": "Yomari, also called Yamari, is a delicacy of the Newar community in Nepal. It is a steamed dumpling that consists of an external covering of rice flour and an inner content of sweet substances such as chaku. ",
-        "ingredients": "",
-        "food_type": ""
+        "ingredients": " A yomari is a confection of rice flour (from the new harvest) dough shaped like fish and filled with brown cane sugar and sesame seeds, which is then steamed. This delicacy is the chief item on the menu during the post-harvest celebration of Yomari Punhi.",
+        "food_type": "Mostly Veg"
     }
 ]
 
