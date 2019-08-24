@@ -50,27 +50,27 @@ cash_values = [
         "NepaliValue": "100",
         "ConvertedValue": "",
         "what_can_i_buy": {
-            "1": "Lorem Ipsum at Jorem Ipsum",
-            "2": "Single Life Rocks",
-            "3": "Hello World, we welcome you"
+            "1": "Visit Central Zoo, Patan.",
+            "2": "MoMo at New Everest MoMo Center, Thamel.",
+            "3": "Try Chatamari and other Nepwari Cuisine at Kirtipur."
         }
     },
         {
         "NepaliValue": "500",
         "ConvertedValue": "",
         "what_can_i_buy": {
-            "1": "Lorem Ipsum at Jorem Ipsum",
-            "2": "Single Life Rocks",
-            "3": "Hello World, we welcome you"
+            "1": "Buy handicrafts at thamel.",
+            "2": "Visit Nepal Aviation Museum at Sinamangal.",
+            "3": "Try Chatamari and other Nepwari Cuisine at Kirtipur."
         }
     },
         {
         "NepaliValue": "1000",
         "ConvertedValue": "",
         "what_can_i_buy": {
-            "1": "Lorem Ipsum at Jorem Ipsum",
-            "2": "Single Life Rocks",
-            "3": "Hello World, we welcome you"
+            "1": "Buy Cake with Ur Koseli",
+            "2": "Buy Bhojpuri Khukuri at Thamel Khukhuri House",
+            "3": "10 Plates MoMo at New Everest MoMo Center, Thamel"
         }
     },
 ]
